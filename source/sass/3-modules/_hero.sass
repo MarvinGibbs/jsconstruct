@@ -1,0 +1,152 @@
+/* HERO */
+
+%hero-shared
+  width: 100%
+  height: 100%
+  min-width: 100%
+  min-height: 110%
+  position: relative
+
+%hero-before-shared
+  background-size: cover
+  content: ""
+  display: block
+  position: absolute
+  top: 0px
+  left: 0px
+  width: 100%
+  height: 100%
+  z-index: -2
+
+%hero-after-shared
+  content: ""
+  display: block
+  position: absolute
+  top: 0px
+  left: 0px
+  width: 100%
+  height: 100%
+  z-index: -1
+
+%hero-body-before-shared
+  content: ""
+  display: block
+  position: absolute
+  margin-left: 0
+  min-width: 100%
+  min-height: 100%
+  z-index: -1
+
+
+.hero
+  @extend %hero-shared
+  &-about
+    @extend %hero-shared
+  &-gallery
+    @extend %hero-shared
+  &-contact
+    @extend %hero-shared
+
+.hero::before
+  @extend %hero-before-shared
+  background-image: url('/wp-content/themes/jsconstruct/build/img/MetalCabin_hqumqf_c_scale,w_327.jpg')
+
+@media (min-width: 768px)
+  .hero::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/MetalCabin_hqumqf_c_scale,w_429.jpg')
+
+@media (min-width: 992px)
+  .hero::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/MetalCabin_hqumqf_c_scale,w_513.jpg')
+
+@media (min-width: 1200px)
+  .hero::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/MetalCabin_hqumqf_c_scale,w_550.jpg')
+
+.hero::after
+  @extend %hero-after-shared
+  background-color: $hero-bg
+  opacity: 0.4
+
+.hero-body::before
+  @extend %hero-body-before-shared
+  background-color: $hero-body-bg
+  opacity: 0.4
+
+.hero-about::before
+  @extend %hero-before-shared
+  background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-lake_chutab_c_scale,w_375.jpg')
+  opacity: 0.8
+
+@media (min-width: 768px)
+  .hero-about::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-lake_chutab_c_scale,w_723.jpg')
+
+@media (min-width: 992px)
+  .hero-about::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-lake_chutab_c_scale,w_974.jpg')
+
+@media (min-width: 1200px)
+  .hero-about::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-lake_chutab_c_scale,w_1260.jpg')
+
+.hero-about::after
+  @extend %hero-after-shared
+  opacity: 0.4
+
+.hero-about-body::before
+  @extend %hero-body-before-shared
+  background-color: $hero-body-bg
+  opacity: 0.6
+
+.hero-gallery::before
+  @extend %hero-before-shared
+  background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-scene_jcgq02_c_scale,w_558.jpg')
+  opacity: 0.8
+
+@media (min-width: 768px)
+  .hero-gallery::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-scene_jcgq02_c_scale,w_799.jpg')
+
+@media (min-width: 992px)
+  .hero-gallery::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-scene_jcgq02_c_scale,w_1008.jpg')
+
+@media (min-width: 1200px)
+  .hero-gallery::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-scene_jcgq02_c_scale,w_1264.jpg')
+
+.hero-gallery::after
+  @extend %hero-after-shared
+  opacity: 0.4
+
+.hero-gallery-body::before
+  @extend %hero-body-before-shared
+  background-color: $hero-body-bg
+  opacity: 0.6
+
+.hero-contact::before
+  @extend %hero-before-shared
+  background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_499.jpg')
+  opacity: 0.8
+
+@media (min-width: 768px)
+  .hero-contact::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_796.jpg')
+
+@media (min-width: 992px)
+  .hero-contact::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_968.jpg')
+
+@media (min-width: 1200px)
+  .hero-contact::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_1265.jpg')
+
+.hero-contact::after
+  @extend %hero-after-shared
+  opacity: 0.4
+
+.hero-contact-body::before
+  @extend %hero-body-before-shared
+  background-color: $hero-body-bg
+  opacity: 0.6
