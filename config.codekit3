@@ -17,6 +17,14 @@
 		"oAP": "/build/.eslintrc",
 		"oF": 0
 		},
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/.gitignore",
+		"oF": 0
+		},
 	"/.stylelintrc.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -645,7 +653,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_alert.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_badge.scss": {
@@ -658,7 +666,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_badge.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_breadcrumb.scss": {
@@ -671,7 +679,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_breadcrumb.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_button-group.scss": {
@@ -684,7 +692,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_button-group.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_buttons.scss": {
@@ -697,7 +705,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_buttons.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_card.scss": {
@@ -710,7 +718,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_card.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_carousel.scss": {
@@ -723,7 +731,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_carousel.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_close.scss": {
@@ -736,7 +744,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_close.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_code.scss": {
@@ -749,7 +757,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_code.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_custom-forms.scss": {
@@ -762,7 +770,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_custom-forms.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_dropdown.scss": {
@@ -775,7 +783,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_dropdown.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_forms.scss": {
@@ -788,7 +796,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_forms.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_functions.scss": {
@@ -801,7 +809,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_functions.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_grid.scss": {
@@ -814,7 +822,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_grid.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_images.scss": {
@@ -827,7 +835,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_images.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_input-group.scss": {
@@ -840,7 +848,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_input-group.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_jumbotron.scss": {
@@ -853,7 +861,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_jumbotron.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_list-group.scss": {
@@ -866,7 +874,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_list-group.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_media.scss": {
@@ -879,7 +887,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_media.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_mixins.scss": {
@@ -892,7 +900,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_mixins.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_modal.scss": {
@@ -905,7 +913,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_modal.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_nav.scss": {
@@ -918,7 +926,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_nav.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_navbar.scss": {
@@ -931,7 +939,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_navbar.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_pagination.scss": {
@@ -944,7 +952,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_pagination.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_popover.scss": {
@@ -957,7 +965,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_popover.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_print.scss": {
@@ -970,7 +978,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_print.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_progress.scss": {
@@ -983,7 +991,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_progress.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_reboot.scss": {
@@ -996,7 +1004,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_reboot.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_root.scss": {
@@ -1009,7 +1017,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_root.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_spinners.scss": {
@@ -1022,7 +1030,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_spinners.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_tables.scss": {
@@ -1035,7 +1043,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_tables.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_toasts.scss": {
@@ -1048,7 +1056,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_toasts.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_tooltip.scss": {
@@ -1061,7 +1069,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_tooltip.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_transitions.scss": {
@@ -1074,7 +1082,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_transitions.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_type.scss": {
@@ -1087,7 +1095,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_type.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_utilities.scss": {
@@ -1100,7 +1108,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_utilities.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/_variables.scss": {
@@ -1113,7 +1121,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/_variables.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_alert.scss": {
@@ -1124,9 +1132,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_alert.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_alert.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_background-variant.scss": {
@@ -1139,7 +1147,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_background-variant.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_badge.scss": {
@@ -1150,9 +1158,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_badge.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_badge.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_border-radius.scss": {
@@ -1163,9 +1171,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_border-radius.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_border-radius.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_box-shadow.scss": {
@@ -1178,7 +1186,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_box-shadow.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_breakpoints.scss": {
@@ -1191,7 +1199,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_breakpoints.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_buttons.scss": {
@@ -1204,7 +1212,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_buttons.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_caret.scss": {
@@ -1217,7 +1225,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_caret.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_clearfix.scss": {
@@ -1228,9 +1236,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_clearfix.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_clearfix.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_deprecate.scss": {
@@ -1243,7 +1251,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_deprecate.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_float.scss": {
@@ -1254,9 +1262,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_float.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_float.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_forms.scss": {
@@ -1267,9 +1275,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_forms.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_forms.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_gradients.scss": {
@@ -1280,9 +1288,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_gradients.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_gradients.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_grid-framework.scss": {
@@ -1295,7 +1303,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_grid-framework.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_grid.scss": {
@@ -1306,9 +1314,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_grid.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_grid.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_hover.scss": {
@@ -1321,7 +1329,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_hover.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_image.scss": {
@@ -1334,7 +1342,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_image.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_list-group.scss": {
@@ -1347,7 +1355,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_list-group.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_lists.scss": {
@@ -1360,7 +1368,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_lists.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_nav-divider.scss": {
@@ -1373,7 +1381,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_nav-divider.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_pagination.scss": {
@@ -1384,9 +1392,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_pagination.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_pagination.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_reset-text.scss": {
@@ -1397,9 +1405,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_reset-text.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_reset-text.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_resize.scss": {
@@ -1410,9 +1418,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_resize.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_resize.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_screen-reader.scss": {
@@ -1425,7 +1433,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_screen-reader.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_size.scss": {
@@ -1438,7 +1446,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_size.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_table-row.scss": {
@@ -1449,9 +1457,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_table-row.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_table-row.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_text-emphasis.scss": {
@@ -1462,9 +1470,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_text-emphasis.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_text-emphasis.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_text-hide.scss": {
@@ -1475,9 +1483,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_text-hide.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_text-hide.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_text-truncate.scss": {
@@ -1488,9 +1496,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_text-truncate.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_text-truncate.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_transition.scss": {
@@ -1503,7 +1511,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_transition.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/mixins/_visibility.scss": {
@@ -1516,7 +1524,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/mixins/_visibility.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_align.scss": {
@@ -1527,9 +1535,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_align.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_align.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_background.scss": {
@@ -1542,7 +1550,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_background.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_borders.scss": {
@@ -1553,9 +1561,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_borders.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_borders.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_clearfix.scss": {
@@ -1566,9 +1574,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_clearfix.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_clearfix.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_display.scss": {
@@ -1581,7 +1589,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_display.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_embed.scss": {
@@ -1594,7 +1602,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_embed.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_flex.scss": {
@@ -1607,7 +1615,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_flex.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_float.scss": {
@@ -1618,9 +1626,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_float.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_float.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_interactions.scss": {
@@ -1631,9 +1639,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_interactions.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_interactions.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_overflow.scss": {
@@ -1644,9 +1652,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_overflow.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_overflow.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_position.scss": {
@@ -1659,7 +1667,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_position.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_screenreaders.scss": {
@@ -1672,7 +1680,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_screenreaders.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_shadows.scss": {
@@ -1683,9 +1691,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_shadows.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_shadows.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_sizing.scss": {
@@ -1696,9 +1704,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_sizing.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_sizing.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_spacing.scss": {
@@ -1711,7 +1719,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_spacing.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_stretched-link.scss": {
@@ -1722,9 +1730,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_stretched-link.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_stretched-link.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_text.scss": {
@@ -1737,7 +1745,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_text.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/utilities/_visibility.scss": {
@@ -1750,7 +1758,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/bootstrap/scss/utilities/_visibility.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/bootstrap/scss/vendor/_rfs.scss": {
@@ -1761,9 +1769,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/bootstrap/scss/vendor/_rfs.scss",
+		"oAP": "/build/sass/0-plugins/bootstrap/scss/vendor/_rfs.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/font-awesome/scss/_animated.scss": {
@@ -1774,9 +1782,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/font-awesome/scss/_animated.scss",
+		"oAP": "/build/sass/0-plugins/font-awesome/scss/_animated.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/font-awesome/scss/_bordered-pulled.scss": {
@@ -1787,9 +1795,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/font-awesome/scss/_bordered-pulled.scss",
+		"oAP": "/build/sass/0-plugins/font-awesome/scss/_bordered-pulled.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/font-awesome/scss/_core.scss": {
@@ -1800,9 +1808,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/font-awesome/scss/_core.scss",
+		"oAP": "/build/sass/0-plugins/font-awesome/scss/_core.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/font-awesome/scss/_fixed-width.scss": {
@@ -1813,9 +1821,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/font-awesome/scss/_fixed-width.scss",
+		"oAP": "/build/sass/0-plugins/font-awesome/scss/_fixed-width.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/font-awesome/scss/_icons.scss": {
@@ -1826,9 +1834,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/font-awesome/scss/_icons.scss",
+		"oAP": "/build/sass/0-plugins/font-awesome/scss/_icons.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/font-awesome/scss/_larger.scss": {
@@ -1839,9 +1847,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/font-awesome/scss/_larger.scss",
+		"oAP": "/build/sass/0-plugins/font-awesome/scss/_larger.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/font-awesome/scss/_list.scss": {
@@ -1852,9 +1860,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/font-awesome/scss/_list.scss",
+		"oAP": "/build/sass/0-plugins/font-awesome/scss/_list.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/font-awesome/scss/_mixins.scss": {
@@ -1865,9 +1873,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/font-awesome/scss/_mixins.scss",
+		"oAP": "/build/sass/0-plugins/font-awesome/scss/_mixins.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/font-awesome/scss/_path.scss": {
@@ -1880,7 +1888,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/font-awesome/scss/_path.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/font-awesome/scss/_rotated-flipped.scss": {
@@ -1891,9 +1899,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/font-awesome/scss/_rotated-flipped.scss",
+		"oAP": "/build/sass/0-plugins/font-awesome/scss/_rotated-flipped.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/font-awesome/scss/_screen-reader.scss": {
@@ -1904,9 +1912,9 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/build/sass/0-plugins/font-awesome/scss/_screen-reader.scss",
+		"oAP": "/build/sass/0-plugins/font-awesome/scss/_screen-reader.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/font-awesome/scss/_stacked.scss": {
@@ -1919,7 +1927,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/font-awesome/scss/_stacked.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/font-awesome/scss/_variables.scss": {
@@ -1932,7 +1940,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/font-awesome/scss/_variables.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/0-plugins/font-awesome/scss/font-awesome.scss": {
@@ -1945,7 +1953,7 @@
 		"oA": 1,
 		"oAP": "/build/sass/0-plugins/font-awesome/scss/font-awesome.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/1-base/_base-dir.sass": {

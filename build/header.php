@@ -49,7 +49,7 @@
         <div class="container">
 
           <a href="" class="navbar-brand">
-            <img src="<?php bloginfo('stylesheet_directory') ?>/build/img/website_logo_transparent_background.png" width="240px" height="180px" alt="Schulteis Construction">
+            <img src="<?php bloginfo('stylesheet_directory') ?>/build/img/website_logo_transparent_background.png" alt="Schulteis Construction">
           </a>
 
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
