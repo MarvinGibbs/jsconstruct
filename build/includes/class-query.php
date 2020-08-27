@@ -5,16 +5,16 @@ class Query {
   private $loop;
 
   function __construct($query_array) {
-    $this->$loop = new WP_Query($query_array);
+    $this->loop = new WP_Query($query_array);
   }
 
 
 
   function loop() {
-    $keep_looping = $this->$loop != null ?
-      $this->$loop->have_posts() : false;
+    $keep_looping = $this->loop != null ?
+      $this->loop->have_posts() : false;
     if ($keep_looping) {
-      $this->$loop->the_post();
+      $this->loop->the_post();
     }
     return $keep_looping;
   }
