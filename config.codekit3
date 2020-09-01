@@ -243,6 +243,14 @@
 		"oAP": "/build/page-home.php",
 		"oF": 0
 		},
+	"/page-reviews.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/page-reviews.php",
+		"oF": 0
+		},
 	"/page.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -2150,6 +2158,19 @@
 		"oAP": "/build/sass/3-modules/_nav.css",
 		"oF": 0,
 		"oS": 0,
+		"sct": 0
+		},
+	"/source/sass/3-modules/_reviews.sass": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 2,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/sass/3-modules/_reviews.css",
+		"oF": 0,
+		"oS": 3,
 		"sct": 0
 		},
 	"/source/sass/_mixins.sass": {

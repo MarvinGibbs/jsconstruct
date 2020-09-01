@@ -46,6 +46,8 @@
     @extend %hero-shared
   &-contact
     @extend %hero-shared
+  &-reviews
+    @extend %hero-shared
 
 .hero::before
   @extend %hero-before-shared
@@ -147,6 +149,32 @@
   opacity: 0.4
 
 .hero-contact-body::before
+  @extend %hero-body-before-shared
+  background-color: $hero-body-bg
+  opacity: 0.6
+
+.hero-reviews::before
+  @extend %hero-before-shared
+  background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_499.jpg')
+  opacity: 0.8
+
+@media (min-width: 768px)
+  .hero-reviews::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_796.jpg')
+
+@media (min-width: 992px)
+  .hero-reviews::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_946.jpg')
+
+@media (min-width: 1200px)
+  .hero-reviews::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_1265.jpg')
+
+.hero-reviews::after
+  @extend %hero-after-shared
+  opacity: 0.4
+
+.hero-reviews-body::before
   @extend %hero-body-before-shared
   background-color: $hero-body-bg
   opacity: 0.6
