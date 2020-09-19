@@ -2232,6 +2232,14 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/template-parts/content-company.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/template-parts/content-company.php",
+		"oF": 0
+		},
 	"/template-parts/content-display-members.php": {
 		"cB": 0,
 		"ft": 8192,
