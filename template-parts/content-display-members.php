@@ -15,7 +15,7 @@
     <div class="col-sm-4">
       <?php $query->postThumbnail(array(200, 200)); ?>
     </div><!-- .col-sm-4 -->
-    <div class="col-sm-8 pt-sm-4">
+    <div class="col-sm-7 pt-sm-4 offset-sm-1">
       <h5><?php $query->getTitle(); ?></h5>
       <blockquote><?php  $query->getContent(); ?></blockquote>
     </div><!-- .col-sm-8 -->
@@ -23,6 +23,6 @@
 
 <?php
   endwhile;
-  
+
   $query->reset();
 ?>
