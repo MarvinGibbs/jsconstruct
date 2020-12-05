@@ -16,8 +16,10 @@ get_header();
   <section id="about">
     <div class="container">
       <div class="row">
-        <div class="col-sm-8 offset-sm-2">
-          <h2>Our team</h2>
+        <div class="col-sm-9 offset-sm-1">
+
+
+          <?php get_template_part('template-parts/content', 'display-team', array( 'post_type' => 'team' )); ?>
 
           <?php get_template_part('template-parts/content', 'display-members', array( 'post_type' => 'owner' )); ?>
 

@@ -1,6 +1,6 @@
 <?php
 /**
- * Template part for displaying memmbers both owners and employees
+ * Template part for displaying memmbers team
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
@@ -11,14 +11,12 @@
 
  while($query->loop()) :
 ?>
+  <h2><?php $query->getTitle(); ?></h2>
+
   <div class="row inform">
     <div class="col-sm-4">
-      <?php $query->postThumbnail(array(200, 200)); ?>
+      <?php $query->postThumbnail(array(300, 300)); ?>
     </div><!-- .col-sm-4 -->
-    <div class="col-sm-7 pt-sm-4 offset-sm-1">
-      <h5><?php $query->getTitle(); ?></h5>
-      <blockquote><?php  $query->getContent(); ?></blockquote>
-    </div><!-- .col-sm-8 -->
   </div><!-- .row .inform -->
 
 <?php
