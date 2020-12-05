@@ -4,7 +4,6 @@
   width: 100%
   height: 100%
   min-width: 100%
-  min-height: 110%
   position: relative
 
 %hero-before-shared
@@ -17,6 +16,8 @@
   width: 100%
   height: 100%
   z-index: -2
+  background-attachment: fixed
+
 
 %hero-after-shared
   content: ""
@@ -40,14 +41,19 @@
 
 .hero
   @extend %hero-shared
+  min-height: 170%
   &-about
     @extend %hero-shared
+    min-height: 275%
   &-gallery
     @extend %hero-shared
+    min-height: 575%
   &-contact
     @extend %hero-shared
+    min-height: 150%
   &-reviews
     @extend %hero-shared
+    min-height: 275%
 
 .hero::before
   @extend %hero-before-shared
@@ -79,6 +85,13 @@
   @extend %hero-before-shared
   background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-lake_chutab_c_scale,w_375.jpg')
   opacity: 0.8
+
+@media (min-width: 575px)
+  .hero
+    min-height: 115%
+  .hero-about
+    min-height: 225%
+
 
 @media (min-width: 768px)
   .hero-about::before
