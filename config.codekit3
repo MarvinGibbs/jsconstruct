@@ -340,6 +340,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/source/img/James.jpg": {
+		"ft": 16384,
+		"iS": 3142392,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/James.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/source/img/james.png": {
 		"ft": 32768,
 		"iS": 5913,
@@ -349,6 +360,72 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/source/img/JamesHome1_jp22ld_c_scale,w_1004.png": {
+		"ft": 32768,
+		"iS": 2648937,
+		"oA": 0,
+		"oAP": "/build/img/JamesHome1_jp22ld_c_scale,w_1004.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/img/JamesHome1_jp22ld_c_scale,w_1237.png": {
+		"ft": 32768,
+		"iS": 3923018,
+		"oA": 0,
+		"oAP": "/build/img/JamesHome1_jp22ld_c_scale,w_1237.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/img/JamesHome1_jp22ld_c_scale,w_1400-1.png": {
+		"ft": 32768,
+		"iS": 3356556,
+		"oA": 0,
+		"oAP": "/build/img/JamesHome1_jp22ld_c_scale,w_1400-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/img/JamesHome1_jp22ld_c_scale,w_1400.png": {
+		"ft": 32768,
+		"iS": 4928208,
+		"oA": 0,
+		"oAP": "/build/img/JamesHome1_jp22ld_c_scale,w_1400.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/img/JamesHome1_jp22ld_c_scale,w_780.png": {
+		"ft": 32768,
+		"iS": 1645236,
+		"oA": 0,
+		"oAP": "/build/img/JamesHome1_jp22ld_c_scale,w_780.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/img/Jeff.jpg": {
+		"ft": 16384,
+		"iS": 2502389,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/Jeff.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/source/img/MetalCabin.jpg": {
@@ -483,6 +560,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/source/img/Miko.jpg": {
+		"ft": 16384,
+		"iS": 2733258,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/Miko.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/source/img/miko.png": {
 		"ft": 32768,
 		"iS": 6724,
@@ -588,6 +676,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/img/mountain-scene_jcgq02_c_scale,w_799.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/img/Schluteis-Team.JPG": {
+		"ft": 16384,
+		"iS": 2130955,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/Schluteis-Team.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2246,6 +2345,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/template-parts/content-display-members.php",
+		"oF": 0
+		},
+	"/template-parts/content-display-team.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/template-parts/content-display-team.php",
 		"oF": 0
 		},
 	"/template-parts/content-mission.php": {
