@@ -39,7 +39,7 @@
 
 .hero
   @extend %hero-shared
-  min-height: 170%
+  min-height: 100%
   &-about
     @extend %hero-shared
     min-height: 230%
@@ -57,15 +57,15 @@
   @extend %hero-before-shared
   background-image: url('/wp-content/themes/jsconstruct/build/img/MetalCabin_tgk5g7_ar_1_1,c_fill,g_auto__c_scale,w_440.jpg')
 
-@media (min-width: 768px)
+@include md
   .hero::before
-    background-image: url('/wp-content/themes/jsconstruct/build/img/MetalCabin_bb7d2t_ar_4_3,c_fill,g_auto__c_scale,w_484.jpg')
+    background-image: url('/wp-content/themes/jsconstruct/build/img/Siding-stone-porch-1.jpg')
 
-@media (min-width: 992px)
+@include lg
   .hero::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/MetalCabin_bb7d2t_ar_4_3,c_fill,g_auto__c_scale,w_546.jpg')
 
-@media (min-width: 1200px)
+@include xl
   .hero::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/MetalCabin_bb7d2t_ar_4_3,c_fill,g_auto__c_scale,w_550.jpg')
 
@@ -84,22 +84,21 @@
   background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-lake_chutab_c_scale,w_375.jpg')
   opacity: 0.8
 
-@media (min-width: 575px)
+@include sm
   .hero
     min-height: 115%
   .hero-about
     min-height: 190%
 
-
-@media (min-width: 768px)
+@include md
   .hero-about::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-lake_chutab_c_scale,w_723.jpg')
 
-@media (min-width: 992px)
+@include lg
   .hero-about::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-lake_chutab_c_scale,w_974.jpg')
 
-@media (min-width: 1200px)
+@include xl
   .hero-about::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-lake_chutab_c_scale,w_1260.jpg')
 
@@ -117,15 +116,15 @@
   background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-scene_jcgq02_c_scale,w_558.jpg')
   opacity: 0.8
 
-@media (min-width: 768px)
+@include md
   .hero-gallery::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-scene_jcgq02_c_scale,w_799.jpg')
 
-@media (min-width: 992px)
+@include lg
   .hero-gallery::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-scene_jcgq02_c_scale,w_1008.jpg')
 
-@media (min-width: 1200px)
+@include xl
   .hero-gallery::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-scene_jcgq02_c_scale,w_1264.jpg')
 
@@ -143,15 +142,15 @@
   background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_499.jpg')
   opacity: 0.8
 
-@media (min-width: 768px)
+@include md
   .hero-contact::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_796.jpg')
 
-@media (min-width: 992px)
+@include lg
   .hero-contact::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_946.jpg')
 
-@media (min-width: 1200px)
+@include xl
   .hero-contact::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_1265.jpg')
 
@@ -169,15 +168,15 @@
   background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_499.jpg')
   opacity: 0.8
 
-@media (min-width: 768px)
+@include md
   .hero-reviews::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_796.jpg')
 
-@media (min-width: 992px)
+@include lg
   .hero-reviews::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_946.jpg')
 
-@media (min-width: 1200px)
+@include xl
   .hero-reviews::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/snow-cabin_u8jrgc_c_scale,w_1265.jpg')
 
