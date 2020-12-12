@@ -60,10 +60,13 @@
   @include landscape
     background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-lake_chutab_c_scale,w_375.jpg')
 
-
-@include md
+@include md_portrait
   .hero::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/Siding-stone-porch-1.jpg')
+
+@include md_landscape
+  .hero::before
+    background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-lake_chutab_c_scale,w_375.jpg')
 
 @include lg
   .hero::before
