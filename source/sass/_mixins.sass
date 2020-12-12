@@ -1,20 +1,60 @@
 // GLOBAL MIXINS
 
+@mixin portrait
+  @media (orientation: portrait)
+    @content
+
+@mixin landscape
+  @media (orientation: landscape)
+    @content
+
 // Small devices
 @mixin sm
   @media (min-width: $screen-sm-min)
+    @content
+
+@mixin sm_portrait
+  @media (min-width: $screen-sm-min) and (orientation: portrait)
+    @content
+
+@mixin sm_landscape
+  @media (min-width: $screen-sm-min) and (orientation: landscape)
     @content
 
 @mixin md
   @media (min-width: $screen-md-min)
     @content
 
+@mixin md_portrait
+  @media (min-width: $screen-md-min) and (orientation: portrait)
+    @content
+
+@mixin md_landscape
+  @media (min-width: $screen-md-min) and (orientation: landscape)
+    @content
+
 @mixin lg
   @media (min-width: $screen-lg-min)
     @content
 
+@mixin lg_portrait
+  @media (min-width: $screen-lg-min) and (orientation: portrait)
+    @content
+
+@mixin lg_landscape
+  @media (min-width: $screen-lg-min) and (orientation: landscape)
+    @content
+
 @mixin xl
   @media (min-width: $screen-xl-min)
+    @content
+
+@mixin xl_portrait
+  @media (min-width: $screen-xl-min) and (orientation: portrait)
+    @content
+
+@mixin xl_landscape
+  @media (min-width: $screen-xl-min) and (orientation: landscape)
     @content
 
 @mixin rwd($screen)
