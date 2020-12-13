@@ -39,7 +39,7 @@
 
 .hero
   @extend %hero-shared
-  min-height: 100%
+  min-height: 110%
   &-about
     @extend %hero-shared
     min-height: 230%
@@ -65,6 +65,8 @@
     background-image: url('/wp-content/themes/jsconstruct/build/img/Siding-stone-porch-1.jpg')
 
 @include md_landscape
+  .hero
+    min-height: 150%
   .hero::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/Siding-stone-porch.jpg')
 
