@@ -53,6 +53,13 @@
     @extend %hero-shared
     min-height: 275%
 
+
+@include sm
+  .hero
+    min-height: 115%
+  .hero-about
+    min-height: 190%
+
 .hero::before
   @extend %hero-before-shared
   @include portrait
@@ -68,7 +75,7 @@
   .hero::before
     background-image: url('/wp-content/themes/jsconstruct/build/img/Siding-stone-porch.jpg')
   .hero
-    min-height: 300%
+    min-height: 130%
 
 @include lg
   .hero::before
@@ -92,12 +99,6 @@
   @extend %hero-before-shared
   background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-lake_chutab_c_scale,w_375.jpg')
   opacity: 0.8
-
-@include sm
-  .hero
-    min-height: 115%
-  .hero-about
-    min-height: 190%
 
 @include md
   .hero-about::before
