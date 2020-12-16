@@ -54,28 +54,42 @@
     min-height: 275%
 
 
-@include sm
-  .hero
-    min-height: 115%
-  .hero-about
-    min-height: 190%
-
+// Base is extra small (xs). Smaller than $screen-sm-min: 576px
 .hero::before
   @extend %hero-before-shared
-  @include portrait
-    background-image: url('/wp-content/themes/jsconstruct/build/img/Siding-stone-porch-1.jpg')
-  @include landscape
+  @include xs_portrait
+    background-image: url('/wp-content/themes/jsconstruct/build/img/Gibbs-porch.jpg')
+
+  @include xs_landscape
     background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-lake_chutab_c_scale,w_375.jpg')
 
-@include md_portrait
-  .hero::before
+  @include sm_portrait
     background-image: url('/wp-content/themes/jsconstruct/build/img/Siding-stone-porch-1.jpg')
 
-@include md_landscape
-  .hero::before
+  @include sm_landscape
+    background-image: url('/wp-content/themes/jsconstruct/build/img/mountain-scene_jcgq02_c_scale,w_558.jpg')
+
+  @include md_portrait
+    background-image: url('/wp-content/themes/jsconstruct/build/img/Siding-stone-porch-1.jpg')
+
+  @include md_landscape
     background-image: url('/wp-content/themes/jsconstruct/build/img/Siding-stone-porch.jpg')
-  .hero
-    min-height: 180%
+
+// @include sm
+//   .hero
+//     min-height: 115%
+//   .hero-about
+//     min-height: 190%
+
+// @include md_portrait
+//   .hero::before
+//     background-image: url('/wp-content/themes/jsconstruct/build/img/Siding-stone-porch-1.jpg')
+//
+// @include md_landscape
+//   .hero::before
+//     background-image: url('/wp-content/themes/jsconstruct/build/img/Siding-stone-porch.jpg')
+//   .hero
+//     min-height: 180%
 
 @include lg
   .hero::before
